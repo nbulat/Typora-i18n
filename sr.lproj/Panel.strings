@@ -1,0 +1,233 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ */
+/* Preference Panel */
+
+"Preferences" = "Postavke";
+
+/* General Panel */
+"General" = "Opšte";
+"Window Style" = "Stil prozora";
+"Classic" = "Klasično";
+"Seamless" = "Konzistentno";
+"Seamless window only support OS X later than 10.10." = "Seamless window only support OS X later than 10.10.";
+"Themes" = "Teme";
+"Open Theme Folder" = "Otvori folder s temama";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Molimo odaberite `pomoć`->`Brzi Start` za kratki uvod. Posetite http://theme.typora.io kako biste nabavili više tema ili instrukcija.";
+"Word Count" = "Broj reči";
+"Always Show Word Count" = "Uvijek pokaži broj riječi";
+"Font Size" = "Veličina fonta";
+"Auto ( Recommended )" = "Automatski (preporučeno)";
+"Customized" = "Prilagođeno svojim potrebama";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "If custom font size is used, the actual font size will depend on the base font size and css style.";
+"Left Panel" = "Levi Panel";
+"Show Outline Panel by Default" = "Prikaži panel sadržaja kao zadati";
+"Collapsible Outline on Left Panel" = "Panel sadržaja s opcijom skrivanja";
+"Save without asking when\nswitch files on side panel" = "Automatski snimi prilikom prelaska s datoteke na datoteku u bočnoj traci";
+"Language" = "Jezik";
+"System Language" = "Jezik sistema";
+
+/* Editor Panel */
+"Editor" = "Uređivač";
+"Indent Size on Save" = "Pomeraj uvlačenja pri snimanju datoteke";
+"only apply to quotes and lists created from menu bar or hybrid view" = "primeni samo na citate i liste stvorene kroz menubar ili hibridni pregled";
+"Trigger Autocomplete without ESC key for" = "Trigger Autocomplete bez ESC tastera za";
+"Emoji (e.g. :smile:)" = "Emotikoni (npr. :smile:)";
+"Images Insert" = "Umetanje slika";
+"Use relative path if possible" = "Koristi relativnu putanju ako je moguće";
+"Auto Pair" = "Automatski upari";
+"Auto pair brackets and quotes" = "Automatski upari zagrade i navodnike";
+"Auto pair common Markdown syntax" = "Automatski upari Markdown sintaksu";
+"Live Rendering" = "Prikaz uživo";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Display source for simple blocks\n(including headings, etc.) on focus";
+"Default Copy Behavior" = "Zadato ponašanje kopiranja";
+"Copy Markdown source as plain text" = "Kopiraj Markdown izvor kao običan tekst";
+"Typewriter Mode" = "Mod pisaća mašina";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Always keep caret in middle of screen\nwhen typewriter mode is enabled";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Sledeća podešavanja biće primenjena nakon restarta aplikacije.)";
+"Syntax Support" = "Podržana sintaksa";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( e.g: $\\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Subskript    ( e.g: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Superskript ( e.g: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Istakni (npr.: == ključ ==)";
+"Diagrams" = "Dijagrami";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
+"Syntax Preference" = "Podešavanja sintakse";
+"(only applies to styles created from menubar or hybrid view)" = "(primenjivo samo na stilove napravljene iy menubar-a ili hibridnog pogleda)";
+"Strict Mode" = "Striktni mod";
+"(more strict to GFM spec)" = "(more strict to GFM spec)";
+"Heading Style" = "Stil naslova";
+"Unordered List" = "Neuređena lista";
+"Ordered List" = "Uređena lista";
+"Code Fences" = "Kôd blok";
+"Display line numbers for code fences" = "Prikaži brojeve linija za blok kôda";
+"Math Blocks" = "Matematički blok";
+"Auto Numbering Math Equations" = "Automatsko numerisanje matematičkih jednačina";
+
+/* Security Panel */
+"Security" = "Sigurnost";
+"Enable Debug" = "Omogući otklanjanje grešaka";
+"Send Anonymous Usage Info" = "Šalji anonimno informacije o korišćenju";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Za nastavak je potreban Pandoc...";
+"Follow instructions to install Pandoc" = "Sledite uputstva kako biste instalirali Pandoc";
+"Cancel" = "Otkaži";
+
+/* Pandoc Import Panel */
+"Importing..." = "Uvoz...";
+"Importing in progress..." = "Uvoz u toku...";
+"Converting file with Pandoc. This may take some time." = "Konvertujem datoteku koristeći Pandoc. Ovo može potrajati neko vreme.";
+"Abort" = "Prekini";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Izvoženje...";
+"Exporting in progress..." = "Izvoz u toku...";
+"Converting file with Pandoc. This may take some time." = "Konvertujem datoteku koristeći Pandoc. Ovo može potrajati neko vreme.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc je potreban kako bi se uvezli ovi formati datoteke";
+"Check help->Install and use Pandoc from menubar for detail" = "Check help->Install and use Pandoc from menubar for detail";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Feature-i za uvoz i izvoz zahtjevaju instaliran <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0).";
+"Follow Instructions to Install/Update Pandoc" = "Sledite uputstva kako biste instalirali/osvježili Pandoc";
+"Export Failed" = "Izvoz nije uspeo";
+"Import Failed" = "Uvoz nije uspeo";
+"Generated Image too Large" = "Generisana slika je prevelika";
+"Failed to export file to <em>{0}</em>" = "Nije uspeo izvoz datoteke u <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Nije uspeo uvoz datoteka iz <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Fajl ne postoji na <em>{0}</em>";
+"Export to..." = "Izvezi u...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Želite li da snimite promene napravljene u ovom dokumentu?<br> Vaše promene biće izgubljene ako ih ne snimite.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Upozorenje] Dodavanje bookmarka za PDF datoteku nije uspelo.";
+"Dark Theme not support" = "Tamna tema nije podržana";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Trenutna verzija Typore neće ispisati boju pozadine na izvezeni PDF, tako da tamna tema još ne podržava PDF izvoz. Odaberite svetlu temu ili kliknite \"Ispis s zadatom temom\"";
+"Print with default theme" = "Štampaj sa zadatom temom";
+"Export to PDF successfully." = "Uspešno izvezeno u PDF.";
+"Converting file using Pandoc. This may take some time." = "Konverzija datoteke koristeći Pandoc. Ovo može potrajati neko vrijeme.";
+"Exporting file using Pandoc. This may take some time." = "Izvoz datoteke koristeći Pandoc. Ovo može potrajati neko vrijeme.";
+
+/* Upload via iPic */
+"Uploading Images via iPic..." = "Upload slika preko iPic...";
+"Uploading in progress…" = "Upload u toku...";
+"Do not show this again" = "Ne prikazuj ovo opet";
+
+/* Word Count */
+"Minute" = "Minute";
+"Line" = "Linije";
+"Word" = "Reči";
+"Character" = "Znakovi";
+
+"Minutes" = "Minute";
+"Lines" = "Linije";
+"Words" = "Reči";
+"Characters" = "Znakovi";
+"In Selection" = "U odabiru";
+"Panel" = "Panel";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Izgled";
+"System Native" = "System Native";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(biće primenjeno nakon ponovnog pokretanja)";
+"Status Bar" = "Statusna traka";
+"Show status bar" = "Pokaži statusnu traku";
+"Save & Recover" = "Sačuvaj i vrati";
+"Auto Save" = "Automatsko snimanje";
+"Recover Unsaved Drafts" = "Vrati nesačuvane datoteke";
+"Emoji Autocomplete" = "Emoji autocomplete";
+"Trigger by ESC key" = "Pokreni ESC tasterom";
+"Trigger automatically" = "Pokreni automatski";
+"Default Line Ending" = "Zadati završetak retka";
+"Line ending for new file" = "Završetak reda za novu datoteku";
+"Spell Check" = "Pravopis";
+"(support US English only)" = "(podrška samo za US Engleski)";
+"Enable spell check" = "Omogući pravopisnu provjeru";
+"Auto correct spelling" = "Automatski ispravi pravopis";
+"System" = "Sistem";
+"Privacy" = "Privatnost";
+"Developer" = "Developer";
+"Update" = "Ažuriranje";
+"Check Updates" = "Proveri ažuriranja";
+"Check updates automatically" = "Automatski proveri ažuriranja";
+"Advanced Settings" = "Napredne postavke";
+"Open Advanced Settings" = "Otvori napredne postavke";
+"Reset Advanced Settings" = "Resetiraj napredne postavke";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "Ova funkcija zahteva da najnovija verzija iPic bude instalirana.";
+"Get iPic" = "Nabavi iPic";
+"Cannot Continue…" = "Ne mogu da nastavim…";
+"This feature require macOS >= 10.11" = "Ovaj feature zahteva macOS > = 10.11";
+"One More Step" = "Još jedan korak";
+"Notice" = "Obaveštenje";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Ovo zahtijeva da iPic bude instaliran, slike će biti uploadane u usluge u oblaku putem iPica. Molimo takođe imajte na umu da zadata usluga u oblaku ne podržava brisanje uploadovanih slika.";
+
+"%d Images Failed to Upload." = "%d slike nisu uploadovane.";
+"%d Succeeded," = "%d uspelo, ";
+"Enable this feature on preferences panel" = "Omogući ovaj feature u postavkama";
+"%@ is a file, not a directory" = "%@ je datoteka, a ne folder";
+"Copy Images To…" = "Kopiraj slike u…";
+"Create Folder and Continue" = "Napravi folder i nastavi";
+"Document must be saved first" = "Dokument prvo mora biti sačuvan";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora će kopirati novo umetnutu sliku u folder s odabranom relativnom putanjom, pa vas molimo, prvo spremite datoteku.";
+"Open Operation Failed" = "Operacija otvaranja nije uspela";
+
+"Support Documentation" = "Dokumentacija";
+
+"Markdown File" = "Markdown datoteka";
+"Plain Text File" = "Obična tekstualna datoteka";
+"All Files" = "Sve datoteke";
+"All Supported Formats" = "Svi podržani formati";
+"Discard Changes" = "Odbaci izmene";
+"Discard" = "Odbaci";
+
+"Menu" = "Meni";
+"Back" = "Nazad";
+
+"Contact" = "Kontakt";
+"Open From..." = "Otvori sa...";
+"Import..." = "Uvezi...";
+"Recent Documents" = "Nedavni dokumenti";
+"Search for" = "Traži";
+"Clear Recent Documents" = "Očisti nedavne dokumente";
+"File Name" = "Ime datoteke";
+"Path" = "Putanja";
+"Export As..." = "Izvezi kao...";
+"More Formats" = "Više formata";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Za formate datoteka pod sekcijom 'Više formata' <a class='open-pandoc-guide'>Pandoc mora biti instaliran</a>.";
+"Something is Wrong…" = "Nešto nije u redu…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Spremanje sadržaja nije uspjelo iz nekog razloga.<br/>Mogli biste kopirati sadržaj u novi Typora prozor i zatim ga spremiti. <br/>Saznajte više:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Prijavite nam bugove</a></li><li><a href='https://support.typora.io/Version-Control/'>Vrati izgubljen sadržaj</a></li></ul>";
+"Copy Content" = "Kopiraj sadržaj";
+
+
+"Total" = "Ukupno";
+"Word count only support OS X later than 10.10." = "Brojanje reči je podržano samo na OS X kasnijem od 10.10.";
+"Indent Size for Code" = "Veličina uvlačenja za kôd";
+"Auto wrap long lines" = "Automatski prelomi duge linije";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Trenutna verzija Typore neće ispisati boju pozadine. Tako da tamna tema još ne podržava ispis. Odaberite svetlu temu ili izvezite ovaj dokument kao PDF.";
+"Export to PDF" = "Izvezi kao PDF";
+"Pretty indentation" = "Ulepšano uvlačenje";
+"Update markdown reference for this image" = "Ažuriranje markdown referenci za ovu sliku";
+
+"No special action" = "Bez posebne akcije";
+"Copy image to current folder (./)" = "Kopiraj sliku u trenutni folder (. /)";
+"Copy image to ./assets" = "Kopiraj sliku u ./assets";
+"Copy image to ./${filename}.assets" = "Kopiraj sliku u ./${filename}.assets";
+"Upload image via iPic" = "Upload slike preko iPic";
+"Apply above rules to local images" = "Primeni gornja pravila na lokalne slike";
+"Apply above rules to online images" = "Primeni gornja pravila na slike na internetu";
+"Allow upload images automatically based on YAML settings" = "Omogući automatski upload slika baziran na YAML postavkama";
+
+"Learn More" = "Nauči više";
+"Whitespace / Line Break" = "Razmak / Prelom";
+"When Writing" = "Kad pišem";
+"Export / Print" = "Izvoz / Štampanje";
+"Preserve sequential whitespace and single line break" = "Sačuvaj razmak i jednolinijsko prelamanje";
+"Ignore sequential whitespace and single line break" = "Zanemari razmak i jednolinijsko prelamanje";

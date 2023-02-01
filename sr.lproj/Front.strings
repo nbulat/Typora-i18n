@@ -1,0 +1,135 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Otkaži";
+"Yes" = "Da";
+"No" = "Ne";
+"Close" = "Zatvori";
+"Select" = "Odaberi";
+"Continue" = "Nastavi";
+"Learn More…" = "Saznaj više…";
+"Untitled" = "Bezimena";
+"Undo" = "Poništi";
+"Dismiss" = "Odbaci";
+"Confirm" = "Potvrdi";
+"Error" = "Greška";
+
+/* Search Panel */
+"Search" = "Nađi";
+"Replace" = "Zameni";
+"All" = "Sve";
+"Search text not found in article" = "Traženi text nije pronađen u članku";
+"search text" = "traži text";
+
+/* Quick Open */
+"Search by file name" = "Traži po imenu datoteke";
+"Searching" = "Tražim";
+"Gathering more results" = "Skupljam više rezultata";
+
+/* Tables */
+"Insert Table" = "Umetni tablicu";
+"Columns" = "Kolone";
+"Rows" = "Redovi";
+"Align Left" = "Poravnaj ulevo";
+"Align Center" = "Centriraj";
+"Align Right" = "Poravnaj udesno";
+"Resize Table" = "Promeni veličinu tablice";
+"Delete Table" = "Obriši tablicu";
+
+/* Images */
+"Create Folder" = "Napravi folder";
+
+/* Math */
+"Edit" = "Uredi";
+"Delete Math" = "Obriši Math";
+"Preview" = "Pregled";
+
+/* Sidebar */
+"Articles" = "Članci";
+"Outline" = "Outline";
+"Files" = "Fajlovi";
+"Switch to File List view" = "Prebaci na pregled datoteka - lista";
+"Switch to File Tree view" = "Prebaci na pregled datoteka - stablo";
+"Switch to Outline view" = "Prebaci na pregled sadržaja";
+"Close sidebar" = "Zatvori bočni panel";
+"Loading" = "Učitavam";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Odabrani direktoriji sadrže previše datoteka. \nMolimo prebacite se na <a id='switch-to-tree-on-oversize'>File Tree view</a> za bolje performanse.";
+"New File" = "Novi Fajl";
+"Unpin Outline Panel" = "Ukloni Outline Panel";
+"Open Folder..." = "Otvori folder...";
+"Action" = "Akcija";
+"Close Sidebar Menu" = "Zatvori Sidebar Menu";
+"Reveal in Finder" = "Otkrij u Finderu";
+"Reveal in File Explorer" = "Pokaži u istraživaču datoteka";
+"Refresh Folder" = "Osvježi folder";
+"Sort" = "Sortiraj";
+"Group By Folder" = "Grupiši po folderu";
+"Sort Naturally" = "Sortiraj prirodno";
+"Sort by Name (Ascending)" = "Sortiraj po imenu (Rastuće)";
+"Sort by Modification Date (Ascending)" = "Sortiraj po datumu uređivanja (Opadajuće)";
+"Sort by Name (Descending)" = "Sortiraj po imenu (Opadajuće)";
+"Sort by Modification Date (Descending)" = "Sortiraj po datumu uređivanja (Opadajuće)";
+"Location" = "Lokacija";
+"Switch File List/Tree View" = "Prebaci pregled datoteka Lista/Stablo";
+"No Files Available" = "Nema dostupnih datoteka";
+"No Folder is Opened." = "Nijedan folder nije otvoren.";
+"Outline is Empty." = "Outline je prazan.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Prikaži/skloni Bočni Panel";
+"Toggle Source Code Mode" = "Prikaži/skloni mod izvornog kôda";
+"Exit Source Code Mode" = "Izađi iz moda izvornog kôda";
+
+"Table of Contents" = "Tablica Sadržaja";
+"Empty Diagram" = "Isprazni dijagram";
+"Input Math TeX here" = "Unesi Math TeX ovde";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Potrebno je definisati referentnu fusnotu <b>{0}</b> sintaksom <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Potrebno je definisati referentni link <b>[{0}]</b> sintaksom <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Molimo definišite referentnu sliku za \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Stvaranje datoteke nije uspelo";
+"Failed to create folder" = "Stvaranje foldera nije uspelo";
+"Failed to rename file" = "Preimenovanje datoteke nije uspelo";
+"Folder does not exist at %@" = "Folder ne postoji na %@";
+"File with the same name already exists at target path" = "Datoteka sa istim imenom već postoji na tom mestu";
+"Apply to All" = "Primeni na sve";
+"Overwrite" = "Prepiši";
+"Stop" = "Stani";
+"back to document" = "nazad na dokument";
+"Failed to load file" = "Neuspelo učitavanje datoteke";
+"Save File Failed!" = "Snimanje datoteke nije uspelo!";
+"Cannot open folder {0}" = "Ne mogu otvoriti folder {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Sadržaj datoteke je izmenjen eksternom aplikacijom. Da osvežim trenutni sadržaj s diska ?";
+"Should continue moving and overwrite existing file(s) ?" = "Da nastavim s premeštanjem i prepišem postojeću datoteku(e) ?";
+
+"Rename Failed" = "Preimenovanje nije uspelo";
+"Rename to \"{0}\" ?" = "Preimenuj u \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Nije uspelo preimenovanje sa\"{0}\" u \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Uspešno uploadovano {0} slika.";
+"Failed to upload image. Error Message:" = "Greška pri upload-u slike. Poruka greške:";
+"Failed to Copy Image to Target Folder." = "Neuspelo kopiranje slike u željeni folder.";
+"Select Container Folder" = "Odaberi folder za snimanje";
+
+"Saved" = "Snimljeno";
+
+/* place holder in find & replace input */
+"search text" = "traži tekst";
+"replace with" = "zameni sa";
+/* search option */
+"Case Sensitive" = "Osetljivost na velika i mala slova";
+"Whole Word" = "Cela reč";
+
+"input image URL" = "unesi link slike";
+"Select image from local file" = "Odaberi sliku iz datoteke lokalno";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Ne mogu da otvorim lokaciju <code>$1</code>, jeste li mislili <a href='$3' target='_blank' target='_blank'>$2</a> ?";

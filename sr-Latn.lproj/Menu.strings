@@ -1,0 +1,256 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+*/
+/* Typora Menu */
+
+
+"About Typora" = "O Typora-i";
+"Preferences" = "Podešavanja";
+"Check for Updates" = "Proveri ažuriranja";
+"Services" = "Usluge";
+"Hide Typora" = "Sakrij Typora-u";
+"Hide Others" = "Sakrij druge";
+"Show All" = "Pokaži sve";
+"Quit Typora" = "Zatvori Typora-u";
+
+/* File Menu */
+
+"File" = "Datoteka";
+"New" = "Novi";
+"Open" = "Otvori";
+"Open Folder" = "Otvori folder";
+"Reopen with Encoding" = "Ponovo otvori s Encodingom";
+"Auto" = "Auto";
+"Open Recent" = "Otvori nedavne dokumente";
+"Recent Locations" = "Nedavne Lokacije";
+"Clear Items" = "Uklanjanje stavki";
+"No Recent Files" = "Nema nedavno korišćenih datoteka";
+"Open Quickly" = "Brzo otvaranje";
+"Open File Location" = "Otvori lokaciju datoteke";
+"Reveal in Library" = "Otkrij u biblioteci";
+"Reveal in File Tree" = "Otkrij u stablu datoteka";
+"Close" = "Zatvori";
+"Save" = "Snimi";
+"Save As" = "Snimi kao";
+"Duplicate" = "Duplikat";
+"Rename" = "Preimenuj";
+"Move To" = "Premesti";
+"Revert To" = "Povratak na";
+"Browse All Versions" = "Pregledaj sve verzije";
+"Import" = "Uvezi";
+"Export" = "Izvezi";
+"Page Setup" = "Podešavanja stranice";
+"Print" = "Štampanje";
+
+/* Edit Menu */
+"Edit" = "Uredi";
+"Undo" = "Poništi";
+"Redo" = "Ponovi poništeno";
+"Cut" = "Izreži";
+"Copy" = "Kopiraj";
+"Paste" = "Zalepi";
+"Copy as Markdown" = "Kopiraj kao Markdown";
+"Copy as HTML Code" = "Kopiraj kao HTML kôd";
+"Paste as Plain Text" = "Zalijepi kao običan tekst";
+"Select All" = "Odaberi sve";
+"Select Line / Sentence" = "Odaberi liniju/rečenicu";
+"Select Styled Scope" = "Odaberi stilizovano";
+"Select Word" = "Odaberi reč";
+"Delete" = "Obriši";
+"Delete Range" = "Raspon brisanja";
+"Delete Word" = "Obriši reč";
+"Delete Styled Scope" = "Obriši stilizovano";
+"Delete Line / Sentence" = "Izbriši redak/rečenicu";
+"Jump To" = "Skok do";
+"Jump to Top" = "Skok na vrh stranice";
+"Jump to Selection" = "Skok na izbor";
+"Jump to Bottom" = "Skok do dna";
+"Math Tools" = "Matematički alati";
+"Refresh All Math Expressions" = "Osvežavanje svih matematičkih izraza";
+"Image Tools" = "Alati slike";
+"Insert Local Images" = "Umetni lokalne slike";
+"Upload Local Images via iPic" = "Prenos lokalnih slika putem iPic";
+"When Insert Local Image" = "Kada umetnem lokalnu sliku";
+"Copy Image File to Folder" = "Kopiraj sliku u folder";
+"Upload Image via iPic" = "Upload slika preko iPic";
+"Use Image Root Path" = "Koristi punu putanju slike";
+"Line Endings" = "Završetak reda";
+"Windows Line Endings (CRLF)" = "Windows završetak reda (CRLF)";
+"Unix Line Endings (LF)" = "Unix završetak reda (LF)";
+"Find" = "Nađi";
+"Find Next" = "Nađi sledeće";
+"Find Previous" = "Nađi prethodno";
+"Find and Replace" = "Traži i zameni";
+"Replace" = "Zameni";
+"Replace Next" = "Zameni sledeće";
+"Spelling and Grammar" = "Pravopis i gramatika";
+"Check Document Now" = "Proveri dokument sada";
+"Check Spelling While Typing" = "Proveravaj pravopis prilikom pisanja";
+"Check Grammar With Spelling" = "Proveri gramatiku prilikom provere pravopisa";
+"Correct Spelling Automatically" = "Automatski ispravi pravopisne greške";
+"Substitutions" = "Zamene";
+"Smart Quotes" = "Pametni navodnici";
+"Smart Dashes" = "Pametno uvlačenje";
+"Text Replacement" = "Zamena texta";
+"Speech" = "Govor";
+"Start Speaking" = "Počni govor";
+"Stop Speaking" = "Zaustavi govor";
+
+/* Paragraph Menu */
+"Paragraph" = "Pasus";
+"Heading 1" = "Naslov 1";
+"Heading 2" = "Naslov 2";
+"Heading 3" = "Naslov 3";
+"Heading 4" = "Naslov 4";
+"Heading 5" = "Naslov 5";
+"Heading 6" = "Naslov 6";
+"Increase Heading Level" = "Povećaj nivo naslova";
+"Decrease Heading Level" = "Smanji nivo naslova";
+"Table" = "Tablica";
+"Code Fences" = "Blok kôda";
+"Math Block" = "Matematički blok";
+"Quote" = "Citat";
+"Ordered List" = "Uređena lista";
+"Unordered List" = "Neuređena lista";
+"Task List" = "Popis zadataka";
+"Task Status" = "Status zadataka";
+"Toggle Task Status" = "Uključi/isključi status zadatka";
+"Mark as Complete" = "Označi kao dovršeno";
+"Mark as Incomplete" = "Označi kao nedovršeno";
+"List Indentation" = "Uvlačenje liste";
+"Indent" = "Uvlačenje";
+"Outdent" = "Izvlčenje";
+"Link Reference" = "Link Reference";
+"Footnotes" = "Fusnote";
+"Horizontal Line" = "Vodoravna crta";
+"Table of Contents" = "Tablica sadržaja";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Formatiranje";
+"Strong" = "Podebljano";
+"Emphasis" = "Ukošeno";
+"Underline" = "Podcrtano";
+"Code" = "Kôd";
+"Inline Math" = "Inline Math";
+"Strike" = "Precrtano";
+"Highlight" = "Istakni";
+"Superscript" = "Eksponent";
+"Subscript" = "Indeks";
+"Comment" = "Komentar";
+"Hyperlink" = "Link";
+"Image" = "Slika";
+"Clear Format" = "Očisti formatiranje";
+
+/* View Menu */
+"View" = "Prikaz";
+"New Tab" = "Nova kartica";
+"Source Code Mode" = "Pogled u izvorni kôd";
+"Focus Mode" = "Mod fokusiranja";
+"Typewriter Mode" = "Mod pisaće mašine";
+"Toggle Sidebar" = "Uključi/isključi bočnu traku";
+"Outline" = "Sadržaj";
+"Articles" = "Članci";
+"File Tree" = "Stablo datoteka";
+"Always on Top" = "Uvek na vrhu";
+"Full Screen" = "Preko celog ekrana";
+"Show Status Bar" = "Pokaži statusnu traku";
+"Toggle Fullscreen" = "Preko celog ekrana";
+"Actual Size" = "Stvarna veličina";
+"Zoom In" = "Povećavanje";
+"Zoom Out" = "Smanjivanje";
+"Switch Between Opened Documents" = "Prebacivanje između otvorenih dokumenata";
+"Toggle DevTools" = "Uključivanje/isključivanje DevTools";
+
+
+/* Themes Menu */
+"Themes" = "Teme";
+
+/* Window Menu */
+"Window" = "Prozor";
+"Minimize" = "Minimiziraj";
+"Zoom" = "Zumiraj";
+"Bring All to Front" = "Stavi sve ispred";
+
+/* Help Menu */
+"Help" = "Pomoć";
+"Privacy Policy" = "Politika zaštite privatnosti";
+"Credits" = "Zaslužni za projekat";
+"Change Log" = "Evidencija promena";
+"Website" = "Web stranica";
+"Feedback" = "Povratne informacije";
+"About" = "O programu";
+
+/* Touchbar */
+"Block Styles" = "Blok stilovi";
+"Inline Styles" = "Inline stilovi";
+"List Styles / Remove Block" = "Pokaži stilove / ukloni blok";
+"Exit Source Code Mode" = "Izađi iz izvornog kôda";
+"Toggle Source Code Mode" = "Uključi/isključi mod izvornog kôda";
+
+/* Extra Context Menu */
+"Table" = "Tabela";
+"Add Row Above" = "Umetni red pre";
+"Add Row Below" = "Dodaj red nakon";
+"Delete Row" = "Obriši red";
+"Add Column Before" = "Umetni kolonu pre";
+"Add Column After" = "Dodaj kolonu nakon";
+"Delete Column" = "Obriši kolonu";
+"Copy Table" = "Kopiraj tabelu";
+"Delete Table" = "Obriši tabelu";
+"Insert Paragraph After" = "Umetni pasus nakon";
+"Insert Paragraph Before" = "Umetni pasus prije";
+"Delete Code Block" = "Obriši blok kôda";
+"Copy as MathML" = "Kopiraj kao MathMl";
+"Copy as Tex" = "Kopiraj kao Tex";
+"Copy Math" = "Kopiraj Math";
+"Reveal in Finder" = "Otkrij u Finderu";
+"Open Link" = "Otvori link";
+"Reveal in Sidebar" = "Otkrij u bočnoj traci";
+"Open in New Window" = "Otvori u novom prozoru";
+"Copy File Path" = "Kopiraj putanju datoteke";
+"New File" = "Nova datoteka";
+"Rename" = "Preimenuj";
+"New Folder" = "Novi folder";
+
+/* Electron */
+"Learn Spelling" = "Zapamti varijantu";
+"Copy / Paste As" = "Kopiraj / Zalepi kao";
+"Math" = "Math";
+"Insert" = "Umetni";
+"Inspect Element" = "Proveri element";
+"Copy to MS Word" = "Kopiraj u MS Word";
+"Paragraph (before)" = "Pasus (pre)";
+"Paragraph (after)" = "Pasus (posle)";
+
+"Search with Google" = "Traži s Google";
+"Search With…" = "Traži sa…";
+
+/* Related Panel */
+"Open Failed" = "Otvaranje nije uspelo";
+"File or folder does not exist." = "Datoteka ili folder ne postoje.";
+
+"Prettify Source Code" = "Ulepšaj izvorni kôd";
+"Copy '%@'" = "Kopiraj '%@'";
+"Copy to %@" = "Kopiraj u %@";
+"Copy Image to" = "Kopiraj sliku u";
+"Upload via iPic" = "Pošalji koristeći iPic";
+"Open Image Location" = "Otvori lokaciju slike";
+
+"Learn More" = "Saznaj više";
+"Whitespace and Line Breaks" = "Razmak i prelom linija";
+"Indent first line of paragraphs" = "Uvuci prvu liniju pasusa";
+"Visible <br/>" = "Vidljiv <br/> i markdown prelom reda";
+"Preserve sequential whitespace and single line break" = "Sačuvaj uzastopni razmak i jedan prelom reda";
+
+"Save All" = "Sačuvaj sve";
+"New Window" = "Novi Prozor";
+"Reopen Closed File" = "Ponovo otvori zatvorenu datoteku";
+
+"Search" = "Pretraži";
+
+"Insert Table" = "Umetni tabelu";
+"Insert Image" = "Umetni sliku";
